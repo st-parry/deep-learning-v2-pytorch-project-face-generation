@@ -1,4 +1,4 @@
-# deep-learning-v2-pytorch-project-face-generation
+# Generative Adversarial Network Face Generation Project
 GAN project as part of the Udacity Deep Learning Nanodegree
 
 ## Introduction
