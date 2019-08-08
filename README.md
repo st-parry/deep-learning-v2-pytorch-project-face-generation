@@ -2,7 +2,7 @@
 GAN project as part of the Udacity Deep Learning Nanodegree
 
 ## Introduction
-In this project, you'll use generative adversarial networks to generate new images of faces.
+A project using generative adversarial networks to generate new images of faces.
 
 
 ## Getting the project files
